@@ -46,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Marcus-song/Marcus-song/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Marcus-song/Marcus-song/snake.svg" alt="Snake animation" />
 
 ###
